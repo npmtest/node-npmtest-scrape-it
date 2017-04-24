@@ -1,6 +1,6 @@
 # npmtest-scrape-it
 
-#### test coverage for  [scrape-it (v3.3.2)](https://github.com/IonicaBizau/scrape-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-scrape-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrape-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrape-it.svg)](https://travis-ci.org/npmtest/node-npmtest-scrape-it)
+#### basic test coverage for  [scrape-it (v3.3.2)](https://github.com/IonicaBizau/scrape-it#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-scrape-it.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-scrape-it) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-scrape-it.svg)](https://travis-ci.org/npmtest/node-npmtest-scrape-it)
 
 #### A Node.js scraper for humans.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-scrape-it/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-scrape-it/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-scrape-it/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-scrape-it/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-scrape-it/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-scrape-it/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-scrape-it/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-scrape-it/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-scrape-it/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-scrape-it/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-scrape-it/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-scrape-it/build/coverage.html/index.html)
 
@@ -104,7 +104,8 @@
     "scripts": {
         "test": "node test"
     },
-    "version": "3.3.2"
+    "version": "3.3.2",
+    "bin": {}
 }
 ```
 
