@@ -111,8 +111,8 @@
 <tspan x="10" y="1738">  ├─┬ cheerio-req@1.1.4 </tspan>
 <tspan x="10" y="1754">  │ └─┬ tinyreq@3.2.2 </tspan>
 <tspan x="10" y="1770">  │   ├─┬ follow-redirects@0.2.0 </tspan>
-<tspan x="10" y="1786">  │   │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1802">  │   │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1786">  │   │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1802">  │   │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1818">  │   │ └── stream-consume@0.1.0 </tspan>
 <tspan x="10" y="1834">  │   └── ul@5.2.11 </tspan>
 <tspan x="10" y="1850">  ├─┬ err@2.1.7 </tspan>
